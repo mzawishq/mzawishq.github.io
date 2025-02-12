@@ -48,7 +48,7 @@ main:
     #bibtex: https://dblp.org/rec/conf/wacv/0001LSS24.html?view=bibtex
     #image: https://img.yliu.me/placebos_wacv24.png
 
-  - title: Towards Resource-aware DNN Partitioning for Edge Devices with Heterogeneous Resources
+  - title: "Towards Resource-aware DNN Partitioning for Edge Devices with Heterogeneous Resources"
     authors:  <strong>Muhammad Zawish</strong>, Lizy Abraham, Kapal Dev, Steven Davy
     #conference_short: MICCAI
     conference: GLOBECOM 2022-2022 IEEE Global Communications Conference.
@@ -58,7 +58,7 @@ main:
     #image: https://img.yliu.me/teaser/miccai2023.png
     #notes: Early Accept
 
-  - title: Energy-Aware AI-Driven Framework for Edge-Computing-Based IoT Applications
+  - title: "Energy-Aware AI-Driven Framework for Edge-Computing-Based IoT Applications"
     authors: <strong>Muhammad Zawish</strong>, Nouman Ashraf, Rafay Iqbal Ansari, Steven Davy
     #conference_short: CVPR
     conference: IEEE Internet of Things Journal, 2022.
@@ -68,7 +68,7 @@ main:
     #bibtex: https://dblp.org/rec/conf/cvpr/0001SV023.html?view=bibtex
     #image: https://img.yliu.me/teaser/cvpr23_1.png
 
-  - title: Multimodal-Boost: Multimodal Medical Image Super-Resolution Using Multi-Attention Network With Wavelet Transform
+  - title: "Multimodal-Boost: Multimodal Medical Image Super-Resolution Using Multi-Attention Network With Wavelet Transform"
     authors: Fayaz Ali Dharejo, <strong>Muhammad Zawish</strong>, Farah Deeba, Yuanchun Zhou, Kapal Dev, Sunder Ali Khowaja, Nawab Muhammad Faseeh Qureshi
     #conference_short: CVPR
     conference: IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2022.
@@ -78,7 +78,7 @@ main:
     #bibtex: https://dblp.org/rec/conf/cvpr/Luo0SS23.html?view=bibtex
     #image: https://img.yliu.me/teaser/cvpr23_2.png
 
-  - title: Toward On-Device AI and Blockchain for 6G-Enabled Agricultural Supply Chain Management
+  - title: "Toward On-Device AI and Blockchain for 6G-Enabled Agricultural Supply Chain Management"
     authors: <strong>Muhammad Zawish</strong>, Nouman Ashraf, Rafay Iqbal Ansari, Steven Davy, Hassaan Khaliq Qureshi, Nauman Aslam, Syed Ali Hassan
     #conference_short: AAAI
     conference: IEEE Internet of Things Magazine, 2022.
@@ -89,7 +89,7 @@ main:
     #notes: Oral Presentation
     #image: https://img.yliu.me/teaser/OnlineHyperparameters.png
 
-  - title: Meta-Transfer Learning through Hard Tasks
+  - title: "Meta-Transfer Learning through Hard Tasks"
     authors: Qianru Sun*, <strong>Yaoyao Liu*</strong>, Zhaozheng Chen, Tat-Seng Chua, Bernt Schiele <br> (* Equal contribution)
     conference_short: TPAMI
     conference: IEEE Transactions on Pattern Analysis and Machine Intelligence <strong>(TPAMI)</strong>, Volume 44, Number 3, 2022.
