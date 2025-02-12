@@ -3,7 +3,7 @@ main:
   - title: "Energy-Efficient Uncertainty-Aware Biomass Composition Prediction at the Edge"
     authors: <strong>Muhammad Zawish</strong>, Paul Albert, Flavio Esposito, Steven Davy, Lizy Abraham
     #conference_short: CVPR
-    conference: CVPR 2024 Vision for Agriculture.
+    conference: CVPR Vision for Agriculture, 2024.
     pdf: https://openaccess.thecvf.com/content/CVPR2024W/Vision4Ag/papers/Zawish_Energy-Efficient_Uncertainty-Aware_Biomass_Composition_Prediction_at_the_Edge_CVPRW_2024_paper.pdf
     #bibtex: https://dblp.org/rec/journals/corr/abs-2406-09613.html?view=bibtex
     #data: https://github.com/wufeim/imagenet3d
@@ -51,7 +51,7 @@ main:
   - title: "Towards Resource-aware DNN Partitioning for Edge Devices with Heterogeneous Resources"
     authors:  <strong>Muhammad Zawish</strong>, Lizy Abraham, Kapal Dev, Steven Davy
     #conference_short: MICCAI
-    conference: GLOBECOM 2022-2022 IEEE Global Communications Conference.
+    conference: IEEE Global Communications Conference (GLOBECOM), 2022.
     pdf: https://ieeexplore.ieee.org/abstract/document/10000839/
     #code: https://github.com/MrGiovanni/ContinualLearning
     #bibtex: https://dblp.org/rec/conf/miccai/ZhangLCYLZ23.html?view=bibtex
@@ -88,15 +88,4 @@ main:
     #bibtex: https://dblp.org/rec/conf/aaai/0001LSS23.html?view=bibtex
     #notes: Oral Presentation
     #image: https://img.yliu.me/teaser/OnlineHyperparameters.png
-
-  - title: "Meta-Transfer Learning through Hard Tasks"
-    authors: Qianru Sun*, <strong>Yaoyao Liu*</strong>, Zhaozheng Chen, Tat-Seng Chua, Bernt Schiele <br> (* Equal contribution)
-    conference_short: TPAMI
-    conference: IEEE Transactions on Pattern Analysis and Machine Intelligence <strong>(TPAMI)</strong>, Volume 44, Number 3, 2022.
-    pdf: https://lyy.mpi-inf.mpg.de/preprints/Meta_Transfer_Learning_through_Hard_Tasks.pdf
-    code: https://github.com/yaoyao-liu/meta-transfer-learning
-    page: https://lyy.mpi-inf.mpg.de/mtl/
-    bibtex: https://dblp.org/rec/journals/pami/SunLCCS22.html?view=bibtex
-    image: https://img.yliu.me/teaser/MTL_PAMI.png
-
 
