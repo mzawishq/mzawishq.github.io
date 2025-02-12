@@ -2,7 +2,7 @@ main:
 
   - title: "Energy-Efficient Uncertainty-Aware Biomass Composition Prediction at the Edge"
     authors: <strong>Muhammad Zawish</strong>, Paul Albert, Flavio Esposito, Steven Davy, Lizy Abraham
-    conference_short: CVPR
+    #conference_short: CVPR
     conference: CVPR 2024 Vision for Agriculture.
     pdf: https://openaccess.thecvf.com/content/CVPR2024W/Vision4Ag/papers/Zawish_Energy-Efficient_Uncertainty-Aware_Biomass_Composition_Prediction_at_the_Edge_CVPRW_2024_paper.pdf
     #bibtex: https://dblp.org/rec/journals/corr/abs-2406-09613.html?view=bibtex
