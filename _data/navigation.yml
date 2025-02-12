@@ -17,5 +17,5 @@ main:
   - title: "Publications"
     url: /publications/
 
-  #- title: "Home"
-  #  url: /
+  - title: "Home"
+    url: /
