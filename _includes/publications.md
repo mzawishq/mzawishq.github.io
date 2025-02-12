@@ -51,3 +51,4 @@
 {% endfor %}
 
 
+<strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600">Please check my google scholar for more publications.</strong>
