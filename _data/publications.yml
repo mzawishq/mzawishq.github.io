@@ -1,14 +1,14 @@
 main:
 
-  - title: "ImageNet3D: Towards General-Purpose Object-Level 3D Understanding"
-    authors: Wufei Ma, Guofeng Zhang, Qihao Liu, Guanning Zeng, Adam Kortylewski, <strong>Yaoyao Liu</strong>, Alan Yuille
-    conference_short: NeurIPS
-    conference: NeurIPS 2024 Datasets and Benchmarks Track.
-    pdf: https://yaoyaoliu.web.illinois.edu/papers/ImageNet3D_Towards_General_Purpose_Object_Level_3D_Understanding.pdf
-    bibtex: https://dblp.org/rec/journals/corr/abs-2406-09613.html?view=bibtex
-    data: https://github.com/wufeim/imagenet3d
-    page: https://imagenet3d.github.io/
-    image: https://img.yliu.me/teaser/imagenet3d.png
+  - title: "Energy-Efficient Uncertainty-Aware Biomass Composition Prediction at the Edge"
+    authors: <strong>Muhammad Zawish</strong>, Paul Albert, Flavio Esposito, Steven Davy, Lizy Abraham
+    conference_short: CVPR
+    conference: CVPR 2024 Vision for Agriculture.
+    pdf: https://openaccess.thecvf.com/content/CVPR2024W/Vision4Ag/papers/Zawish_Energy-Efficient_Uncertainty-Aware_Biomass_Composition_Prediction_at_the_Edge_CVPRW_2024_paper.pdf
+    #bibtex: https://dblp.org/rec/journals/corr/abs-2406-09613.html?view=bibtex
+    #data: https://github.com/wufeim/imagenet3d
+    #page: https://imagenet3d.github.io/
+    #image: https://img.yliu.me/teaser/imagenet3d.png
 
   - title: "HDR-GS: Efficient High Dynamic Range Novel View Synthesis at 1000x Speed via Gaussian Splatting"
     authors: Yuanhao Cai, Zihao Xiao, Yixun Liang, Minghan Qin, Yulun Zhang, Xiaokang Yang, <strong>Yaoyao Liu</strong>, Alan Yuille
