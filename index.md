@@ -16,4 +16,6 @@ Previously, I completed my PhD in Computer Science at [Max Planck Institute for 
 
 {% include_relative _includes/news.md %}
 
+{% comment %}
 {% include_relative _includes/contact.md %}
+{% endcomment %}
