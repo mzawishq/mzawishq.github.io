@@ -1,18 +1,18 @@
 # Basic Information 
-title: Yaoyao Liu
-position: Assistant Professor
-affiliation: University of Illinois Urbana-Champaign
-affiliation_link: https://www.illinois.edu/
-affiliation_logo: ./assets/img/illinois.svg
-email: lyy (at) illinois.edu
+title: Muhammad Zawish
+position: Postdoctoral Researcher
+affiliation: Technological University Dublin
+affiliation_link: https://www.tudublin.ie/
+#affiliation_logo: ./assets/img/illinois.svg
+email: muhammad.zawish (at) tudublin.ie
 
 # Search Engine Optimization (SEO)
-keywords: yaoyao liu, liu yaoyao, yaoyaoliu, liuyaoyao
-canonical: https://yaoyaoliu.web.illinois.edu
-description: Yaoyao Liu is an assistant professor at the University of Illinois Urbana-Champaign. His research lies in meta-learning, incremental learning, and image generation.
+keywords: muhammad zawish, zawish muhammad, muhammadzawish, zawishmuhammad, mzawish
+canonical: https://www.linkedin.com/in/muhammadzawish/
+description: Muhammad Zawish is a Postdoctoral researcher at the Technological University Dublin. His research lies in efficient, robust, and scalable machine learning.
 
 # The option is used to enable the Illinois template.
-enable_hopkins_logo: true
+enable_hopkins_logo: false
 
 # The option is used to show the last update time.
 enable_last_update: false
