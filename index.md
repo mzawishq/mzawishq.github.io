@@ -6,13 +6,12 @@ layout: homepage
 
 <h2 style="margin: 80px 0px 10px;"></h2>
 
-I am an Assistant Professor in the [School of Information Sciences](https://ischool.illinois.edu/) at the [University of Illinois Urbana-Champaign](https://www.illinois.edu/). I am also affiliated with the [Siebel School of Computing and Data Science](https://siebelschool.illinois.edu/).
+I am a Postdoctoral Researcher in the Centre for Sustainable Digital Technologies at the [Technological University Dublin](https://www.tudublin.ie/), where I am working on the [Science Foundation Ireland (SFI)](https://www.sfi.ie/) project: SustAIn - Sustainable, Green and Energy Efficient Artificial Intelligence for Autonomous Systems.
 
-My research lies at the intersection of **computer vision** and **machine learning** -- with a special focus on building intelligent visual systems that are continual and data-efficient. My research interests include **continual learning**, **few-shot learning**, **semi-supervised learning**, **generative models**, **3D geometry models**, and **medical imaging**.
+My research is broadly situated at the interface between **artificial intelligence** and **edge computing** (**Edge AI**) with applications in precision agriculture and healthcare. In particular, I attempt to solve problems related to energy efficiency, robustness, and scalability of computer vision applications in resource-constrained edge environments. To solve these issues, I developed novel model compression and optimization techniques to enable: i) **on-device training at the edge**, ii) **robustness to heterogeneous and intermittent resources**, and iii) **adaptability to data drift in real-world domains**. 
 
-Previously, I completed my PhD in Computer Science at [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/) and my BS in Electronic Information Engineering at [Tianjin University](http://www.tju.edu.cn/english/index.htm). I also spent time at [Johns Hopkins](https://ccvl.jhu.edu/), [Oxford VGG](https://www.robots.ox.ac.uk/~vgg/), and [National University of Singapore](https://www.comp.nus.edu.sg/). My biography is [here](./biography/).
+Previously, I completed my PhD in Computer Science at [Walton Institute](https://waltoninstitute.ie/), [South East Technological University, Ireland](https://setu.ie/) as a part of platform research in [SFI VistaMilk Center](https://vistamilk.ie/). I also spent time at [Saint Louis University](https://slu.edu/) collaborating with Networking Research Group as a part of my [EU NGI Enrichers Transatlantic Fellowship](https://enrichers.ngi.eu/).
 
-<strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600">I am actively looking for self-motivated Ph.D. students with interests in computer vision and machine learning. If you are interested, please send me an email. You may see details [here](./openings/).</strong>
 
 {% include_relative _includes/news.md %}
 
