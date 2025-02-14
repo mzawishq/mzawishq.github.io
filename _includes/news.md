@@ -6,13 +6,8 @@
 at the IEEE AI Research Hub Competition at <a href="https://www.gitex.com/home"> GITEX GLOBAL Largest Tech & Startup Show in the World</a>
 !</li>
 <li><strong>[Oct. 2024]</strong> Honored to be finalist for <strong> Best Application of AI in Student Project </strong> at <a href="https://aiawards.ie/2024-ai-awards-finalists-revealed/">AI Awards Ireland </a>. </li>
-<li><strong>[Sep. 2024]</strong> Two papers about <a href="./publications/">3D</a> are accepted to <a href="https://neurips.cc/Conferences/2024">NeurIPS 2024</a> and its D&B track.</li>
-<li><strong>[Sep. 2024]</strong> I will serve as an Area Chair of <a href="https://cvpr.thecvf.com/">CVPR 2025</a>, <a href="https://iclr.cc/">ICLR 2025</a>, and <a href="https://aistats.org/aistats2025/">AISTATS 2025</a>.</li>
-<li><strong>[Aug. 2024]</strong> I will serve as a Senior Program Committee Member of <a href="https://aaai.org/conference/aaai/aaai-25/">AAAI 2025</a>.</li>
-<li><strong>[Jul. 2024]</strong> Our paper about <a href="https://www.cs.jhu.edu/~yyliu/preprints/iNeMo_Incremental_Neural_Mesh_Models_for_Robust_Class-Incremental_Learning.pdf">robust class-incremental learning</a> is accepted to <a href="https://eccv2024.ecva.net/">ECCV 2024</a>.</li>
-<li><strong>[Jun. 2024]</strong> I gave a talk on 3D generative models at <a href="https://sites.google.com/view/cvpr24-ac-workshop/">CVPR 2024 Area Chair Workshop</a>. </li>
-<li><strong>[Apr. 2024]</strong> I will serve as an Area Chair of <a href="https://neurips.cc/Conferences/2024">NeurIPS 2024</a> and <a href="https://2024.acmmm.org/">ACM MM 2024</a>.</li>
-<li><strong>[Jan. 2024]</strong> Our paper about <a href="https://arxiv.org/pdf/2306.08103.pdf">diffusion models</a> is accepted to <a href="https://iclr.cc/Conferences/2024/">ICLR 2024</a>.</li>
+<li><strong>[Aug., 2024]</strong> Accepted into the fully funded <strong>Climate Change AI in-person Summer School</strong> (≈ 5% acceptance ratio) at <a href="https://www.climatechange.ai/blog/2024-12-04-summer-school-24-in-person">Mila - Quebec AI Institute</a> in Montreal, Canada.</li> 
+
   
 <!-- 
 <li> <a href="#" onclick="toggleVis(this); return false;">Show more</a> </li>
