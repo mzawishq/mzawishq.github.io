@@ -1,16 +1,21 @@
 <h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul>
-<li><strong>[Nov. 2024]</strong> Invited as an expert in the <a href="https://comethinkagain.eu/co-creation-workshops/co-creation-workshops-evolution-learnings-and-outcomes/">ComeThinkAgain</a> Co-Design Workshop under the EU Erasmus+ project</li>
+<li><strong>[Nov. 2024]</strong> Invited as an expert in the <a href="https://comethinkagain.eu/co-creation-workshops/co-creation-workshops-evolution-learnings-and-outcomes/">ComeThinkAgain</a> Co-Design Workshop under the EU Erasmus+ project.</li>
 <li><strong>[Oct. 2024]</strong> Honored to receive the <strong>Best Paper and Presentation Award</strong>
 at the IEEE AI Research Hub Competition at <a href="https://www.gitex.com/home"> GITEX GLOBAL Largest Tech & Startup Show in the World</a>
 !</li>
-<li><strong>[Oct. 2024]</strong> Honored to be finalist for <strong> Best Application of AI in Student Project </strong> at <a href="https://aiawards.ie/2024-ai-awards-finalists-revealed/">AI Awards Ireland </a>. </li>
+<li><strong>[Oct. 2024]</strong> Honored to be finalist for <strong> Best Application of AI in Student Project </strong> at <a href="https://aiawards.ie/2024-ai-awards-finalists-revealed/">AI Awards Ireland! </a> </li>
 <li><strong>[Aug. 2024]</strong> Accepted into the fully funded <strong>Climate Change AI in-person Summer School</strong> at <a href="https://www.climatechange.ai/blog/2024-12-04-summer-school-24-in-person">Mila - Quebec AI Institute</a> in Montreal, Canada.</li> 
 <li><strong>[June 2024]</strong> Our paper about <strong>energy-efficient biomass estimation at the edge</strong> accepted into <a href="https://openaccess.thecvf.com/content/CVPR2024W/Vision4Ag/papers Zawish_Energy-Efficient_Uncertainty-Aware_Biomass_Composition_Prediction_at_the_Edge_CVPRW_2024_paper.pdf">CVPR, Vision for Agriculture</a>.</li>  
 <li><strong>[Jan. 2024]</strong> Our paper on <strong>pruning at initialization</strong> accepted into <a href="https://ieeexplore.ieee.org/abstract/document/10398587/">IEEE Transactions on Artificial Intelligence</a>.</li>  
-<li><strong>[Jan. 2024]</strong> Our survey paper on <strong>AI and 6G in the Metaverse</strong> accepted into <a href="https://ieeexplore.ieee.org/document/10415393/">IEEE OJCOMS</a>.</li>  
-<li><strong>[July 2024]</strong> Our paper on <strong>SwinWave for Super-Resolution</strong> accepted into <a href="https://www.sciencedirect.com/science/article/abs/pii/S1566253523004438">Information Fusion</a>.</li>  
+<li><strong>[Jan. 2024]</strong> Our survey paper on <strong>AI and 6G in the Metaverse</strong> accepted into <a href="https://ieeexplore.ieee.org/document/10415393/">IEEE OJCOMS</a>.</li>
+<li><strong>[Dec. 2023]</strong> Our paper on <strong>downscaling framework for daily precipitation</strong> accepted into <a href="https://jantsch.se/AxelJantsch/papers/2023/MatthiasBittner-CCAI-NeurIPS.pdf">NeurIPS 2023 Workshop on Tackling Climate Change with Machine Learning</a>.</li>
+<li><strong>[Nov. 2023]</strong> Our paper on <strong>SwinWave for Super-Resolution</strong> accepted into <a href="https://www.sciencedirect.com/science/article/abs/pii/S1566253523004438">Information Fusion</a>.</li>  
+<li><strong>[Oct. 2023]</strong> Awarded <strong>Best 5MT Presentation</strong> in <a href="https://www.comsoc.org/education-training/ieee-comsoc-school-series/2023-ieee-comsoc-school-series-atlanta-usa-event">IEEE ComSoc School Series,<li><strong>[Sep. 2023]</strong> Won <strong>Travel Grant</strong> for <a href="https://www.comsoc.org/education-training/ieee-comsoc-school-series/2023-ieee-comsoc-school-series-atlanta-usa-event">IEEE ComSoc School Series Atlanta, USA</a> on <strong>Next Generation Cloud Communications</strong>, held at Georgia Tech Research Institute, Atlanta, GA, USA (Sept. 21-23, 2023).</li>
+ Georgia Tech, USA</a>.</li>
+
+
 
 
   
