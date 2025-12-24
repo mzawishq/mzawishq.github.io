@@ -1,6 +1,8 @@
 <h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul>
+<li><strong>[March. 2025]</strong> Congratulations to my mentee - Maruf Hassan for paper acceptance at IEEE ICMLA 2025 🎉</li>
+<li><strong>[March. 2025]</strong> I successfully defended my PhD dissertation! 🎉</li>
 <li><strong>[Nov. 2024]</strong> Invited as an expert in the <a href="https://comethinkagain.eu/co-creation-workshops/co-creation-workshops-evolution-learnings-and-outcomes/">ComeThinkAgain</a> Co-Design Workshop under the EU Erasmus+ project.</li>
 <li><strong>[Oct. 2024]</strong> Honored to receive the <strong>Best Paper and Presentation Award</strong>
 at the IEEE AI Research Hub Competition at <a href="https://www.gitex.com/home"> GITEX GLOBAL Largest Tech & Startup Show in the World</a>
